@@ -1,0 +1,5 @@
+D:\Projetos\RoboSinacom\RoboSharp-dev\RoboSharp\bin\Debug\RoboSharp.dll
+D:\Projetos\RoboSinacom\RoboSharp-dev\RoboSharp\bin\Debug\RoboSharp.pdb
+D:\Projetos\RoboSinacom\RoboSharp-dev\RoboSharp\obj\Debug\RoboSharp.csprojResolveAssemblyReference.cache
+D:\Projetos\RoboSinacom\RoboSharp-dev\RoboSharp\obj\Debug\RoboSharp.dll
+D:\Projetos\RoboSinacom\RoboSharp-dev\RoboSharp\obj\Debug\RoboSharp.pdb
